@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-  background-color: black;
-  color: white;
+  background: url("./src/assets/GitHub_BG.png") no-repeat;
+  background-size: cover;
 }
