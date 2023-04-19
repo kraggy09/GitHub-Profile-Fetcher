@@ -1,0 +1,29 @@
+{
+  "name": "github-profile-fetcher",
+  "version": "1.0.0",
+  "description": "This is a Github Profile Fetcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraggy09/Github_Profile_Fetcher.git"
+  },
+  "author": "Kaif Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraggy09/Github_Profile_Fetcher/issues"
+  },
+  "homepage": "https://github.com/kraggy09/Github_Profile_Fetcher#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.22",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
