@@ -1,8 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/*
 body {
   background: url("./src/assets/GitHub_BG.png") no-repeat;
   background-size: cover;
+}
+*/
+
+body {
+  background-color: rgb(31, 29, 29);
+  color: white;
 }
